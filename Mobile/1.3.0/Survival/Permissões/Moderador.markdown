@@ -1,7 +1,3 @@
-() = Opcional
-<> = Obrigatório
-[] = Opcional
-
 [Moderador] <parent: Terrariano>
 **(Internos)**
 /comandos | /cmds = Mostra todos os comandos disponíveis para você no servidor.
