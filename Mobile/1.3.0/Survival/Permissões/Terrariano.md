@@ -3,7 +3,7 @@
 [] = Opcional
 
 [Terrariano]
-***(Internos)**
+**(Internos)**
 /comandos | /cmds = Mostra todos os comandos disponíveis para você no servidor.
 /regras = Mostra as regras de jogo do servidor.
 /login (senha) = Efetua login de forma manual caso preciso.
