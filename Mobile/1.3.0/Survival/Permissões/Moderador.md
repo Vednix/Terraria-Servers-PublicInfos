@@ -21,7 +21,7 @@
 /item = Usado para criar itens para si mesmo.
 /daritem = Usado para dar itens a outros jogadores.
 *permissão para usar itens bloqueados* **não**;
-/spawnboss = Usado para invocar Bosses via comando no servidor.
+/invocarboss = Usado para invocar Bosses via comando no servidor.
 /spawnmob = Usado para invocar Mobs via comando no servidor.
 /butcher = Usado para matar todos os NPCs inimigos ou um NPC específico no servidor.
 /tp = Usado para teleportar-se a outro jogador de forma imediata.
@@ -47,6 +47,7 @@
 *permissão para usar blocos bloqueados* **sim**;
 *permissão para criar projéteis bloqueados* **sim**;
 *permissão para usar itens bloqueados* **sim**;
+*permissão para acessar os servidores Hardmode e Pré-Hardmode a qualquer momento* **sim**;
 -----------------------------------------------------------------------------------------------------------------------
 **(Estatísticas)**
 /stats [jogador] = Usado para ver as suas estatísticas de jogo ou de um outro jogador.
@@ -106,11 +107,11 @@
 *limite de minions* 11;
 -----------------------------------------------------------------------------------------------------------------------
 **(TerraStore)**
-*tempo de espera* não;
-*permissão para criar* não;
-*permissão para editar* não;
-*permissão para ignorar >private* sim;
-*permissão para ignorar >espera* sim;
+*tempo de espera* **não**;
+*permissão para criar* **não**;
+*permissão para editar* **não**;
+*permissão para ignorar >private* **sim**;
+*permissão para ignorar >espera* **sim**;
 -----------------------------------------------------------------------------------------------------------------------
 **(InvSee)**
 /invsee = Usado para ver o inventário de um jogador. 
@@ -118,4 +119,4 @@
             Executa /invsee -save para salvar as alterações feitas no inventário do jogador.
 -----------------------------------------------------------------------------------------------------------------------
 [Permissões-Moderador]
-maxloan.5000000000, seconomy.world.bypassdeathpenalty, aliascmd.bypasscooldown, stats.others, pb.check, pb.give, pb.use, customitem, customitem.give, history.get, history.rollback, history.rollback, houseregions.housingmaster, prot.viewall, prot.nolimits, prot.useeverything, prot.scanchests, essentials.signs.nocd, essentials.signs.readall, invsee.main, invsee.save, invsee.user, tshock.admin.viewlogs, tshock.admin.kick, tshock.admin.ban, tshock.admin.warp, tshock.admin.mute, tshock.admin.seeplayerids, tshock.admin.userinfo, tshock.buff.self, tshock.buff.others, tshock.ignore.damage, tshock.ignore.hp, tshock.ignore.mp, tshock.item.give, tshock.item.spawn, tshock.npc.invade, tshock.npc.hurttown, tshock.npc.spawnmob, tshock.npc.spawnboss, tshock.npc.butcher, tshock.tp.allothers, tshock.tp.self, tshock.tp.others, tshock.tp.pos, tshock.tp.getpos, tshock.tp.npc, tshock.tp.spawn, tshock.world.time.bloodmoon, tshock.world.editregion, tshock.world.time.set, tshock.world.grow, tshock.world.movenpc, tshock.world.time.eclipse, tshock.world.time.fullmoon, tshock.world.rain, tshock.world.wind, tshock.item.usebanned
+maxloan.5000000000, seconomy.world.bypassdeathpenalty, aliascmd.bypasscooldown, stats.others, pb.check, pb.give, pb.use, customitem, customitem.give, history.get, history.rollback, history.rollback, houseregions.housingmaster, prot.viewall, prot.nolimits, prot.useeverything, prot.scanchests, essentials.signs.nocd, essentials.signs.readall, invsee.main, invsee.save, invsee.user, tshock.admin.viewlogs, tshock.admin.kick, tshock.admin.ban, tshock.admin.warp, tshock.admin.mute, tshock.admin.seeplayerids, tshock.admin.userinfo, tshock.buff.self, tshock.buff.others, tshock.ignore.damage, tshock.ignore.hp, tshock.ignore.mp, tshock.item.give, tshock.item.spawn, tshock.npc.invade, tshock.npc.hurttown, tshock.npc.spawnmob, tshock.npc.spawnboss, tshock.npc.butcher, tshock.tp.allothers, tshock.tp.self, tshock.tp.others, tshock.tp.pos, tshock.tp.getpos, tshock.tp.npc, tshock.tp.spawn, tshock.world.time.bloodmoon, tshock.world.editregion, tshock.world.time.set, tshock.world.grow, tshock.world.movenpc, tshock.world.time.eclipse, tshock.world.time.fullmoon, tshock.world.rain, tshock.world.wind, tshock.item.usebanned, tshock.others.hardmodeallow
