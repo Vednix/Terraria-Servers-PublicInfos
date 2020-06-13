@@ -1,6 +1,6 @@
 () = Opcional
 <> = Obrigatório
-[] = Opcional
+[] = Opcional 
 
 [Terrariano]
 **(Internos)**
